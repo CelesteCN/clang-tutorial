@@ -1,17 +1,3 @@
-# clang-tutorial
-
-本仓库 fork 自 [wangdoc/clang-tutorial](https://github.com/wangdoc/clang-tutorial)。
-
-我做的修改：
-
-1. 按自定义学习顺序给 `docs/` 内的章节文件添加数字前缀。
-2. 重写根目录 `README.md`，作为学习导航目录。
-3. 删除原仓库中用于构建静态网站的配置文件，只保留教程文档。
-
-> 说明：文档内容沿用原作者，仅调整了文件名与目录导航
-
----
-
 ## 基础篇
 
 - [C语言简介、编译环境](docs/1.1.intro.md)
