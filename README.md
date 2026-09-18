@@ -20,32 +20,32 @@
 ## 目录
 
 ### 一、基础篇
-- [1.1 C 语言简介、编译环境](docs/1.1-intro.md)
-- [1.2 基础语法](docs/1.2-syntax.md)
-- [1.3 基础数据类型](docs/1.3-types.md)
-- [1.4 变量与常量](docs/1.4-variable.md)
-- [1.5 运算符](docs/1.5-operator.md)
-- [1.6 变量说明符](docs/1.6-specifier.md)
-- [1.7 流程控制（if / for / while / switch）](docs/1.7-flow-control.md)
-- [1.8 输入输出（printf / scanf）](docs/1.8-io.md)
-- [1.9 自定义函数](docs/1.9-function.md)
+- [1.01 C 语言简介、编译环境](docs/1.01-intro.md)
+- [1.02 基础语法](docs/1.02-syntax.md)
+- [1.03 基础数据类型](docs/1.03-types.md)
+- [1.04 变量与常量](docs/1.04-variable.md)
+- [1.05 运算符](docs/1.05-operator.md)
+- [1.06 变量说明符](docs/1.06-specifier.md)
+- [1.07 流程控制（if / for / while / switch）](docs/1.07-flow-control.md)
+- [1.08 输入输出（printf / scanf）](docs/1.08-io.md)
+- [1.09 自定义函数](docs/1.09-function.md)
 - [1.10 预处理（#define / #include）](docs/1.10-preprocessor.md)
 
 ### 二、指针与复合数据
-- [2.1 指针](docs/2.1-pointer.md)
-- [2.2 数组](docs/2.2-array.md)
-- [2.3 字符串](docs/2.3-string.md)
-- [2.4 枚举 enum](docs/2.4-enum.md)
-- [2.5 内存管理 malloc / free](docs/2.5-memory.md)
-- [2.6 结构体 struct](docs/2.6-struct.md)
-- [2.7 typedef 类型别名](docs/2.7-typedef.md)
-- [2.8 共用体 union](docs/2.8-union.md)
+- [2.01 指针](docs/2.01-pointer.md)
+- [2.02 数组](docs/2.02-array.md)
+- [2.03 字符串](docs/2.03-string.md)
+- [2.04 枚举 enum](docs/2.04-enum.md)
+- [2.05 内存管理 malloc / free](docs/2.05-memory.md)
+- [2.06 结构体 struct](docs/2.06-struct.md)
+- [2.07 typedef 类型别名](docs/2.07-typedef.md)
+- [2.08 共用体 union](docs/2.08-union.md)
 
 ### 三、进阶
-- [3.1 多文件编译、头文件](docs/3.1-multifile.md)
-- [3.2 文件读写](docs/3.2-file.md)
-- [3.3 命令行参数](docs/3.3-cli.md)
-- [3.4 多字节字符](docs/3.4-multibyte.md)
+- [3.01 多文件编译、头文件](docs/3.01-multifile.md)
+- [3.02 文件读写](docs/3.02-file.md)
+- [3.03 命令行参数](docs/3.03-cli.md)
+- [3.04 多字节字符](docs/3.04-multibyte.md)
 
 ### 附录：C 标准库参考
 - [assert.h](docs/lib/assert.h.md)
