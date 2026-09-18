@@ -1,4 +1,4 @@
-# C 语言教程（学习顺序版）
+# C 语言教程
 
 > 本仓库 fork 自 [wangdoc/clang-tutorial](https://github.com/wangdoc/clang-tutorial)（原作者：阮一峰）。
 > 教程原文版权归原作者所有。原仓库未附 LICENSE 文件，授权声明以原项目及其发布站点（wangdoc.com）为准；使用请遵守原授权。
