@@ -1,33 +1,33 @@
 ## 基础篇
 
-- [C语言简介、编译环境](docs/1.1.intro.md)
-- [基础语法](docs/1.2.syntax.md)
-- [基础数据类型](docs/1.3.types.md)
-- [变量与常量](docs/1.4.variable.md)
-- [运算符](docs/1.5.operator.md)
-- [printf格式说明符](docs/1.6.specifier.md)
-- [输入输出 printf / scanf](docs/1.7.io.md)
-- [流程控制 if for while switch](docs/1.8.flow-control.md)
-- [自定义函数](docs/1.9.function.md)
-- [预处理 #define #include](docs/2.1.preprocessor.md)
+- [C语言简介、编译环境](docs/1.1%20intro.md)
+- [基础语法](docs/1.2%20syntax.md)
+- [基础数据类型](docs/1.3%20types.md)
+- [变量与常量](docs/1.4%20variable.md)
+- [运算符](docs/1.5%20operator.md)
+- [printf格式说明符](docs/1.6%20specifier.md)
+- [输入输出 printf / scanf](docs/1.7%20io.md)
+- [流程控制 if for while switch](docs/1.8%20flow-control.md)
+- [自定义函数](docs/1.9%20function.md)
+- [预处理 #define #include](docs/2.1%20preprocessor.md)
 
 ## 复合数据
 
-- [数组](docs/2.2.array.md)
-- [字符串](docs/2.3.string.md)
-- [枚举 enum](docs/2.4.enum.md)
-- [结构体 struct](docs/2.5.struct.md)
-- [共用体 union](docs/2.6.union.md)
-- [typedef 类型别名](docs/2.7.typedef.md)
+- [数组](docs/2.2%20array.md)
+- [字符串](docs/2.3%20string.md)
+- [枚举 enum](docs/2.4%20enum.md)
+- [结构体 struct](docs/2.5%20struct.md)
+- [共用体 union](docs/2.6%20union.md)
+- [typedef 类型别名](docs/2.7%20typedef.md)
 
 ## 进阶难点
 
-- [指针](docs/2.8.pointer.md)
-- [动态内存 malloc / free](docs/2.9.memory.md)
-- [多文件编译、头文件](docs/3.1.multifile.md)
-- [文件读写](docs/3.2.file.md)
-- [命令行参数](docs/3.3.cli.md)
-- [多字节字符](docs/3.4.multibyte.md)
+- [指针](docs/2.8%20pointer.md)
+- [动态内存 malloc / free](docs/2.9%20memory.md)
+- [多文件编译、头文件](docs/3.1%20multifile.md)
+- [文件读写](docs/3.2%20file.md)
+- [命令行参数](docs/3.3%20cli.md)
+- [多字节字符](docs/3.4%20multibyte.md)
 # clang‑tutorial
 > 本仓库 fork 自 [wangdoc/clang‑tutorial](https://github.com/wangdoc/clang‑tutorial)
 
