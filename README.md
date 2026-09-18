@@ -27,3 +27,12 @@
 - [文件读写](docs/file.md)
 - [命令行参数](docs/cli.md)
 - [多字节字符](docs/multibyte.md)
+# clang‑tutorial
+> 本仓库 fork 自 [wangdoc/clang‑tutorial](https://github.com/wangdoc/clang‑tutorial)
+
+### 本仓库做的修改：
+1. 重新规划C语言学习章节顺序，给docs内全部markdown文件增加数字前缀，让文件列表按照学习顺序展示。
+2. 重写根目录 README.md，作为自定义阅读目录导航。
+3. 删除原仓库静态网站构建相关配置文件，只保留教程文档。
+
+> ⚠️ 文档内容完全沿用原作者，仅修改文件名与目录结构
